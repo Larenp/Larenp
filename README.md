@@ -31,9 +31,20 @@ Apart from coding and research, I am a passionate clay modeling artist who enjoy
 ---
 ### Contribution Activity
 
-<p align="center">
-  <img src="https://github.com/LarenPinto/Larenp/blob/output/dist/snake.svg" alt="Snake Animation" width="90%">
-</p>
+<<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 ### Let's Connect
