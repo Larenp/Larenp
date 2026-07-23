@@ -15,7 +15,20 @@ Email: [pintolaren05@gmail.com](mailto:pintolaren05@gmail.com)
 ### ⚡ Beyond Technology
 
 Apart from coding and research, I am a passionate clay modeling artist who enjoys creating handcrafted sculptures and exploring creativity beyond software development.
+### Statistical Overview
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-Pai-N&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larenp&theme=github_dark" width="48%" alt="GitHub Repositories" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Larenp&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Larenp&theme=github_dark" width="30%" />
+</p>
+---
 ### Contribution Activity
 
 <p align="center">
