@@ -16,6 +16,13 @@ Email: [pintolaren05@gmail.com](mailto:pintolaren05@gmail.com)
 
 Apart from coding and research, I am a passionate clay modeling artist who enjoys creating handcrafted sculptures and exploring creativity beyond software development.
 
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/output/dist/snake.svg" alt="Snake Animation" width="90%">
+</p>
+
+
 ### 🤝 Connect With Me
 
 LinkedIn: https://linkedin.com/in/laren-pinto
