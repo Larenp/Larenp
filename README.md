@@ -12,7 +12,7 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 
 ## 🚀 What I'm Interested In
 
-* 💻 Full Stack & Backend Development
+* 💻 Full Stack Development
 * 🤖 Artificial Intelligence & Machine Learning
 * 🧠 Deep Learning
 * 👁️ Computer Vision
@@ -36,10 +36,10 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 ## 🧩 LeetCode Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-> Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
+> Replace `detectivefox` with your actual LeetCode username.
 
 ---
 
