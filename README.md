@@ -23,8 +23,13 @@ Apart from coding and research, I am a passionate clay modeling artist who enjoy
 </p>
 
 
-### 🤝 Connect With Me
+### Let's Connect
 
-LinkedIn: https://linkedin.com/in/laren-pinto
-
-Instagram: https://instagram.com/_laren_pinto_18
+<p align="center">
+  <a href=" https://linkedin.com/in/laren-pinto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pintolaren05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
