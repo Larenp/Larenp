@@ -34,10 +34,7 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 ---
 
 ## 🧩 LeetCode Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats and Heatmap" /> </p>
 
 > Replace `detectivefox` with your actual LeetCode username.
 
