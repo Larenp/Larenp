@@ -32,7 +32,7 @@ Apart from coding and research, I am a passionate clay modeling artist who enjoy
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Pranava-Pai-N/Pranava-Pai-N/blob/output/dist/snake.svg" alt="Snake Animation" width="90%">
+  <img src="https://github.com/LarenPinto/Larenp/blob/output/dist/snake.svg" alt="Snake Animation" width="90%">
 </p>
 
 
