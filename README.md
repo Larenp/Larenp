@@ -32,6 +32,11 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 </p>
 
 ---
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larenp&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 ## 🧩 LeetCode Statistics
 
 <p align="center">
