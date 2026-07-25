@@ -33,9 +33,8 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Larenp&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larenp&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
+
+  
 
 ---
 
@@ -46,15 +45,6 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 </p>
 
 ---
-
-## 🧩 LeetCode Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma" alt="LeetCode Stats" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -75,6 +65,16 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 </p>
 
 ---
+
+<!-- ## 🧩 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma" alt="LeetCode Stats" />
+</p>
+
+-->
+
+
 
 ## 🎨 Beyond Technology
 
