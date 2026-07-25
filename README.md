@@ -37,28 +37,6 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma" alt="LeetCode Stats" />
 </p>
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Larenp/Larenp/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Larenp/Larenp/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Larenp/Larenp/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
 
 ## 🎨 Beyond Technology
 
