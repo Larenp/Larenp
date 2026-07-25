@@ -4,44 +4,77 @@
 
 I'm a Computer Science Engineering student passionate about building practical software solutions and exploring emerging technologies.
 
-My interests include **Full Stack Development, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Forensic Technology**. I enjoy turning ideas into real-world applications and continuously improving my skills through projects, research, hackathons, and problem-solving.
+My interests include **Full Stack Development, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Forensic Technology**. I enjoy turning ideas into real-world applications through projects, research, hackathons, and problem-solving.
 
-My recent work includes **AI-powered dental radiograph analysis, biometric identification systems, deep learning applications for forensic investigations, and full-stack web development**.
+My recent work includes **AI-powered dental radiograph analysis, biometric identification systems, deep learning applications for forensic investigations, and full-stack web development.**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Larenp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 What I'm Interested In
 
-* 💻 Full Stack Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* 🔬 Research & AI Applications
-* 🧩 Data Structures & Algorithms
+- 💻 Full Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🔬 AI Research & Applications
+- 🧩 Data Structures & Algorithms
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larenp&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img width="54%" src="https://streak-stats.demolab.com?user=Larenp&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Larenp&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Larenp&theme=github_dark" width="45%" alt="Repositories Per Language" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Larenp&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larenp&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
+
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larenp&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
+
+---
+
 ## 🧩 LeetCode Statistics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/detectivefox?theme=dark&font=Karma" alt="LeetCode Stats" />
 </p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Larenp/Larenp/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Larenp/Larenp/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Larenp/Larenp/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
 
 ## 🎨 Beyond Technology
 
@@ -55,7 +88,16 @@ Apart from coding and research, I'm a passionate **clay modeling artist** who en
   <a href="https://linkedin.com/in/laren-pinto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:pintolaren05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+<div align="center">
+
+> *"Stay curious. Keep building."*
+
+</div>
