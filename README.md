@@ -1,4 +1,4 @@
-# Hi 👋, I'm Laren Pinto
+# I'm Laren Pinto
 
 ### Computer Science Engineering Student | Full Stack Developer | AI & Deep Learning Enthusiast
 
@@ -14,7 +14,7 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 
 -->
 
-## 🚀 What I'm Interested In
+##  What I'm Interested In
 
 - 💻 Full Stack Development
 - 🤖 Artificial Intelligence & Machine Learning
@@ -25,7 +25,7 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="54%" src="https://streak-stats.demolab.com?user=Larenp&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
@@ -38,14 +38,14 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 
 ---
 
-## 📈 GitHub Contribution Graph
+## GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larenp&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <picture>
@@ -76,13 +76,13 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 
 
 
-## 🎨 Beyond Technology
+## Beyond Technology
 
 Apart from coding and research, I'm a passionate **clay modeling artist** who enjoys creating handcrafted sculptures and exploring creativity beyond software development.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/laren-pinto" target="_blank">
