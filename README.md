@@ -73,14 +73,14 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 </p>
 
 -->
-# 🧠 LeetCode Statistics
+<!-- # 🧠 LeetCode Statistics
 
 <p align="center">
 
 <img src="https://github-readme-leetcode-card.romitsagu.com/detectivefox?theme=dark&show=graph,recent"/>
 
 </p>
-
+-->
 
 ## Beyond Technology
 
