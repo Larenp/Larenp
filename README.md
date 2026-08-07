@@ -6,7 +6,7 @@ I'm a Computer Science Engineering student passionate about building practical s
 
 My interests include **Full Stack Development, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Forensic Technology**. I enjoy turning ideas into real-world applications through projects, research, hackathons, and problem-solving.
 
-My recent work includes **AI-powered dental radiograph analysis, biometric identification systems, deep learning applications for forensic investigations, and full-stack web development.**
+My recent work includes **AI-powered dental radiograph analysis, biometric identification systems, deep learning applications for forensic investigations, and full-stack web development. **
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Larenp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
