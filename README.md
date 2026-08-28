@@ -11,7 +11,7 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Larenp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-.
+
 -->
 
 ##  What I'm Interested In
