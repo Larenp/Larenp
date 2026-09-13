@@ -84,7 +84,6 @@ My recent work includes **AI-powered dental radiograph analysis, biometric ident
 ## Beyond Technology
 
 Apart from coding and research, I'm a passionate **clay modeling artist** who enjoys creating handcrafted sculptures and exploring creativity beyond software development.
-
 ---
 
 ##  Let's Connect
