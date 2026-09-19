@@ -1,5 +1,6 @@
 # I'm Laren Pinto
 
+
 ### Computer Science Engineering Student | Full Stack Developer | AI & Deep Learning Enthusiast
 
 I'm a Computer Science Engineering student passionate about building practical software solutions and exploring emerging technologies.
